@@ -18,13 +18,13 @@ import React from "react";
  */
 import image from "../images/sunset-.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "sunset";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm AKhil student studying at Malla Reddy University. I enjoy creating unique and simplistic user interfaces in creative ways. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Open Source Enthusiast. I love building things and sharing them with the world.";
 
 const About = () => {
   return (

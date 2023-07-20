@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/photo.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Nasa-Apod-Api",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project fetches the Astronomy Picture of the Day (APOD) from the NASA API and displays it on a web page.",
+    url: "https://github.com/akhilathuluri/Nasa-Apod-Api",
   },
   {
-    title: "Web Development for Beginners",
+    title: "How to Host Your Web Application on Netlify: Step-by-Step Tutorial",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Deploy Your Server based websites for free of cost To Know Watch The Full video Tutorial",
+    url: "https://www.youtube.com/watch?v=XaJy6mkbEiU&t=3s",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/akhilathuluri/My-portfolio-site",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Git: The Basic Commands Every Developer Should Know",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Git is useful for anyone who writes code or tracks changes to files, from web developers to app developers. So, what exactly is it, and why should you start using it?",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
